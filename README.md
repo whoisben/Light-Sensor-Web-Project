@@ -1,9 +1,9 @@
 # Light-Sensor-Web-Project
 Lovely final project
 
-## Why this project e exits
+## Why this project exits
 
-The author design this project just for finishing his graduate mession （＃－.－）/ 
+The author designed this project just for finishing his graduate mession （＃－.－）/ 
 
 ## Why this sensor was used
 
